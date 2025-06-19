@@ -106,7 +106,7 @@ df = pd.read_csv('./cochesnet_z3.csv',
                  dtype={'year': 'Int64', 'kms': 'Int64', 'cv': 'Int64', 'engine': 'str'})
 
 st.subheader("Parámetros del modelo")
-engine_filter = st.selectbox("Filtrar por cilindrada (engine)", np.append(np.sort(np.array([float(x) for x in df['engine'].unique() if not pd.isna(x)])), np.nan))
+engine_filter = st.selectbox("Filtrar por cilindrada (engine)", np.append(np.sort(np.array([float(x) for x in df['engine'].unique() if not pd.isna(x)])), 'NA'))
 
 var = st.selectbox("Variable para regresión", options=['kms', 'cv', 'year'])
 
@@ -133,19 +133,19 @@ if strategy_name == "Descuento Línea":
 elif strategy_name == "Residuo > umbral":
     threshold = st.number_input("Umbral (€)", value=1000)
     strategy_mask = strategy_residual_threshold(df_filtered, threshold)
-    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=0.85,
+    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=0.25,
                                     strategy_mask=strategy_mask, strategy_name=strategy_name)
 
 elif strategy_name == "Residuo percentil":
     percentile = st.slider("Percentil (%)", 0, 100, 90)
     strategy_mask = strategy_top_percentile_residuals(df_filtered, percentile)
-    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=0.85,
+    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=0.25,
                                     strategy_mask=strategy_mask, strategy_name=strategy_name)
 
 elif strategy_name == "Z-score del residuo":
     zscore = st.slider("Z-score mínimo", 0.0, 3.0, 1.5)
     strategy_mask = strategy_residual_zscore(df_filtered, zscore)
-    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=0.85,
+    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=0.25,
                                     strategy_mask=strategy_mask, strategy_name=strategy_name)
 
 st.plotly_chart(fig, use_container_width=True)
