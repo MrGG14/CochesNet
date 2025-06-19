@@ -39,23 +39,6 @@ def strategy_residual_zscore(df, z_threshold=1.5):
     df['z_score'] = (df['residual'] - z_mean) / z_std
     return df['z_score'] > z_threshold
 
-# def plot_strategy_separately(df, model, var, discount_factor=0.85, strategy_mask=None, strategy_name="Estrategia"):
-#     X_range = np.linspace(df[var].min(), df[var].max(), 100).reshape(-1, 1)
-#     y_pred = model.predict(X_range)
-#     y_discount = y_pred * discount_factor
-
-#     fig, ax = plt.subplots(figsize=(10, 6))
-#     ax.scatter(df.loc[~strategy_mask, var], df.loc[~strategy_mask, 'price'], alpha=0.5, label='Datos')
-#     ax.scatter(df.loc[strategy_mask, var], df.loc[strategy_mask, 'price'], color='red', label='Buena oferta')
-#     ax.plot(X_range, y_pred, color='blue', label='Regresión lineal')
-#     ax.plot(X_range, y_discount, color='green', linestyle='--', label=f'Oferta (~{int((1 - discount_factor)*100)}% menos)')
-#     ax.set_xlabel('Kilómetros')
-#     ax.set_ylabel('Precio (€)')
-#     ax.set_title(f'Relación {var} vs Precio - {strategy_name}')
-#     ax.legend()
-#     ax.grid(True)
-#     return fig
-
 
 def plot_strategy_plotly(df, model, var='kms', discount_factor=0.25, strategy_mask=None, strategy_name="Estrategia"):
     X_range = np.linspace(df[var].min(), df[var].max(), 100).reshape(-1, 1)
@@ -119,7 +102,7 @@ st.title("Análisis de precios de coches")
 
 # Carga de datos
 
-df = pd.read_csv('./cochesnet_z3_infered.csv', 
+df = pd.read_csv('./cochesnet_z3.csv', 
                  dtype={'year': 'Int64', 'kms': 'Int64', 'cv': 'Int64', 'engine': 'str'})
 
 st.subheader("Parámetros del modelo")
