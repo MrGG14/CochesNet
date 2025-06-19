@@ -106,7 +106,7 @@ df = pd.read_csv('./cochesnet_z3.csv',
                  dtype={'year': 'Int64', 'kms': 'Int64', 'cv': 'Int64', 'engine': 'str'})
 
 st.subheader("Parámetros del modelo")
-engine_filter = st.selectbox("Filtrar por cilindrada (engine)", np.append(np.sort(np.array([float(x) for x in df['engine'].unique() if not pd.isna(x)])), 'NA'))
+engine_filter = st.selectbox("Filtrar por cilindrada (engine)", np.append(np.sort(np.array([float(x) for x in df['engine'].unique() if not 'No data'])), 'No data'))
 
 var = st.selectbox("Variable para regresión", options=['kms', 'cv', 'year'])
 
