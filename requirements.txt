@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+pandas      # si usas pandas
+numpy       # si usas numpy
+plotly      # si usas plotly
