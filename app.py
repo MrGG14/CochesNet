@@ -2,12 +2,12 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
+import re
 import plotly.graph_objects as go
 
 # --- Funciones de procesamiento y estrategias ---
-def regression_data_processing(df, engine_cc_filter, var='kms'):
-    filtered_df = df[df['engine'] == str(engine_cc_filter)].copy()
-    filtered_df = filtered_df.dropna(subset=[var])
+def regression_data_processing(df, var='kms'):
+    filtered_df = df.dropna(subset=[var])
     X = filtered_df[[var]].values
     y = filtered_df['price'].values
     model = LinearRegression()
@@ -105,12 +105,58 @@ st.title("Análisis de precios de coches")
 df = pd.read_csv('./cochesnet_z3.csv', 
                  dtype={'year': 'Int64', 'kms': 'Int64', 'cv': 'Int64', 'engine': 'str'})
 
-st.subheader("Parámetros del modelo")
-engine_filter = st.selectbox("Filtrar por cilindrada (engine)", np.append(np.sort(np.array([float(x) for x in df['engine'].unique() if x != 'No data'])), 'No data'))
+st.subheader("Selección de filtros")
+
+brands = df['brand'].unique()
+st.multiselect("Selecciona una o varias marcas", options=brands, key='brand_filter_multi')
+selected_brands = st.session_state['brand_filter_multi'] if 'brand_filter_multi' in st.session_state else []
+if selected_brands:
+    df = df[df['brand'].isin(selected_brands)]
+
+
+# def model_sort_key(model):
+#     # 'No data' always last
+#     if model == 'No data':
+#         return (2, float('inf'), model)
+#     # Try to extract leading number (e.g. '1.8', '2.0', etc.)
+#     match = re.match(r'^(\d+(\.\d+)?)(?:\s+)?(.*)', str(model), re.IGNORECASE)
+#     if match:
+#         num = float(match.group(1))
+#         rest = match.group(3) or ''
+#         return (0, num, model)
+#     # If no leading number, but not 'No data'
+#     return (1, float('inf'), model)
+
+# models = sorted(df['model'].unique(), key=model_sort_key)
+models = df['model'].unique()
+st.multiselect("Selecciona uno o varios modelos", options=models, key='model_filter_multi')
+selected_models = st.session_state['model_filter_multi'] if 'model_filter_multi' in st.session_state else []
+if selected_models:
+    df = df[df['model'].isin(selected_models)]
+ 
+versions = df['version'].unique()
+st.multiselect("Selecciona una o varias versiones", options=versions, key='version_filter_multi')
+selected_versions = st.session_state['version_filter_multi'] if 'version_filter_multi' in st.session_state else []
+if selected_versions:
+    df = df[df['version'].isin(selected_versions)]
+
+# st.subheader("Parámetros del modelo")
+engine_options = np.append(np.sort(np.array([float(x) for x in df['engine'].unique() if x != 'No data'])), 'No data')
+engine_filter = st.selectbox("Filtrar por cilindrada (engine)", options=np.insert(engine_options, 0, ''), format_func=lambda x: "Selecciona..." if x == '' else str(x))
+if engine_filter and engine_filter != '':
+    df = df[df['engine'] == str(engine_filter)]
 
 var = st.selectbox("Variable para regresión", options=['kms', 'cv', 'year'])
+df, model = regression_data_processing(df, var=var)
 
-df_filtered, model = regression_data_processing(df, engine_filter, var=var)
+# Filtrar por marca, modelo, versión y cilindrada (engine)
+# if selected_brands:
+#     df = df[df['brand'].isin(selected_brands)]
+# if selected_models:
+#     df = df[df['model'].isin(selected_models)]
+# if selected_versions:
+#     df = df[df['version'].isin(selected_versions)]
+
 
 # Estrategias
 st.subheader("Estrategia de filtrado")
@@ -126,31 +172,31 @@ strategy_name = st.selectbox(
 
 if strategy_name == "Descuento Línea":
     discount = st.slider("Descuento (%)", 0, 100, 25)
-    strategy_mask = strategy_discount_line(df_filtered, discount / 100)
-    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=discount/100,
+    strategy_mask = strategy_discount_line(df, discount / 100)
+    fig = plot_strategy_plotly(df, model, var=var, discount_factor=discount/100,
                                     strategy_mask=strategy_mask, strategy_name=strategy_name)
 
 elif strategy_name == "Residuo > umbral":
     threshold = st.number_input("Umbral (€)", value=1000)
-    strategy_mask = strategy_residual_threshold(df_filtered, threshold)
-    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=0.25,
+    strategy_mask = strategy_residual_threshold(df, threshold)
+    fig = plot_strategy_plotly(df, model, var=var, discount_factor=0.25,
                                     strategy_mask=strategy_mask, strategy_name=strategy_name)
 
 elif strategy_name == "Residuo percentil":
     percentile = st.slider("Percentil (%)", 0, 100, 90)
-    strategy_mask = strategy_top_percentile_residuals(df_filtered, percentile)
-    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=0.25,
+    strategy_mask = strategy_top_percentile_residuals(df, percentile)
+    fig = plot_strategy_plotly(df, model, var=var, discount_factor=0.25,
                                     strategy_mask=strategy_mask, strategy_name=strategy_name)
 
 elif strategy_name == "Z-score del residuo":
     zscore = st.slider("Z-score mínimo", 0.0, 3.0, 1.5)
-    strategy_mask = strategy_residual_zscore(df_filtered, zscore)
-    fig = plot_strategy_plotly(df_filtered, model, var=var, discount_factor=0.25,
+    strategy_mask = strategy_residual_zscore(df, zscore)
+    fig = plot_strategy_plotly(df, model, var=var, discount_factor=0.25,
                                     strategy_mask=strategy_mask, strategy_name=strategy_name)
 
 st.plotly_chart(fig, use_container_width=True)
 
 # Mostrar las filas que cumplen la estrategia
 st.subheader("Ofertas detectadas")
-st.dataframe(df_filtered[strategy_mask].sort_values(by='price', ascending=True).reset_index(drop=True))
+st.dataframe(df[strategy_mask].sort_values(by='price', ascending=True).reset_index(drop=True))
 
