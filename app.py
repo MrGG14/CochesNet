@@ -102,7 +102,7 @@ st.title("Análisis de precios de coches")
 
 # Carga de datos
 
-df = pd.read_csv('./cochesnet_z3.csv', 
+df = pd.read_csv('./cochesnet_full.csv', 
                  dtype={'year': 'Int64', 'kms': 'Int64', 'cv': 'Int64', 'engine': 'str'})
 
 st.subheader("Selección de filtros")

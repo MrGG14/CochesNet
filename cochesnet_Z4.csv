@@ -1,0 +1,272 @@
+name,price,fuel_type,year,kms,cv,location,url,brand,model,engine,version
+BMW Z4,6000.0,Gasolina,2004,180000,,Guipúzcoa,https://www.coches.net/bmw-z4-gasolina-2004-en-guipuzcoa-59721436-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,6000.0,Gasolina,2004,339000,,Baleares,https://www.coches.net/bmw-z4-gasolina-2004-en-baleares-60429519-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,6950.0,Gasolina,2008,120000,,Las Palmas,https://www.coches.net/bmw-z4-gasolina-2008-en-las_palmas-60322308-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,7500.0,Gasolina,2004,250000,,Baleares,https://www.coches.net/bmw-z4-gasolina-2004-en-baleares-60807316-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.2i,8500.0,Gasolina,2004,206000,170,Badajoz,https://www.coches.net/bmw-z4-22i-2p-gasolina-2004-en-badajoz-60590946-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.0i,8900.0,Gasolina,2005,190000,150,Castellón,https://www.coches.net/bmw-z4-20i-2p-gasolina-2006-en-castellon-60713812-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4,8900.0,Gasolina,2007,220000,,Baleares,https://www.coches.net/bmw-z4-gasolina-2007-en-baleares-60178320-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.2i,8990.0,Gasolina,2005,189000,170,Madrid,https://www.coches.net/bmw-z4-22i-2p-gasolina-2005-en-madrid-60765722-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.2i,8990.0,Gasolina,2005,212400,170,Málaga,https://www.coches.net/bmw-z4-22i-2p-gasolina-2006-en-malaga-60727120-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.5i,9000.0,Gasolina,2008,283000,177,Madrid,https://www.coches.net/bmw-z4-25i-2p-gasolina-2008-en-madrid-60287495-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.5i,9000.0,Gasolina,2003,162000,192,Girona,https://www.coches.net/bmw-z4-25i-2p-gasolina-2003-en-girona-60473462-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.0i,9200.0,Gasolina,2008,134000,150,Badajoz,https://www.coches.net/bmw-z4-2.0i-2p-gasolina-2008-en-badajoz-60080119-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.5i,9490.0,Gasolina,2006,235500,192,Segovia,https://www.coches.net/bmw-z4-25i-2p-gasolina-2006-en-segovia-60346476-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 sDrive23i,9500.0,Gasolina,2011,175000,204,Pontevedra,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2011-en-pontevedra-59604401-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4,9500.0,Gasolina,2012,175000,204,Pontevedra,https://www.coches.net/bmw-z4-gasolina-2012-en-pontevedra-60124745-covo.aspx,BMW,Z4,6,6
+BMW Z4,9750.0,Gasolina,2005,123000,,N/A,https://www.coches.net/bmw-z4-gasolina-2005-en-sevilla-60831077-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,9800.0,Gasolina,2005,184000,170,Navarra,https://www.coches.net/bmw-z4-gasolina-2005-en-navarra-60673019-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.2i,9950.0,Gasolina,2004,109000,170,Baleares,https://www.coches.net/bmw-z4-22i-2p-gasolina-2004-en-baleares-59617282-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.0i,9990.0,Gasolina,2007,215000,150,Lleida,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-lleida-60667698-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4,9999.0,Gasolina,2005,228000,,Málaga,https://www.coches.net/bmw-z4-gasolina-2005-en-malaga-58996859-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4,10000.0,Gasolina,2004,200000,,Ciudad Real,https://www.coches.net/bmw-z4-gasolina-2004-en-jaen-60635587-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,10000.0,Gasolina,2007,212972,,Las Palmas,https://www.coches.net/bmw-z4-gasolina-2007-en-las_palmas-60475155-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.2i,10300.0,Gasolina,2004,185000,170,Málaga,https://www.coches.net/bmw-z4-22i-2p-gasolina-2004-en-malaga-60813152-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.0i,10600.0,Gasolina,2007,135000,150,Zaragoza,https://www.coches.net/bmw-z4-20i-2p-gasolina-2007-en-zaragoza-60754115-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.0i,10800.0,Gasolina,2007,179000,150,Sevilla,https://www.coches.net/bmw-z4-20i-2p-gasolina-2007-en-sevilla-60679651-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.0i,10900.0,Gasolina,2008,192000,150,Castellón,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-castellon-60813855-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4,10900.0,Gasolina,2008,192000,,Castellón,https://www.coches.net/bmw-z4-gasolina-2008-en-castellon-60813812-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.0i,10900.0,Gasolina,2008,138000,150,Sta. C. Tenerife,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-sta_c_tenerife-60123267-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4,10900.0,Gasolina,2008,238000,,Zaragoza,https://www.coches.net/bmw-z4-gasolina-2008-en-zaragoza-60590303-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.0i 2p.,10900.0,Gasolina,2008,130900,150,Albacete,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-albacete-57625250-covo.aspx,BMW,Z4,2.0,2.0 2P.
+BMW Z4 2.2i,10990.0,Gasolina,2005,179000,170,Madrid,https://www.coches.net/bmw-z4-22i-2p-gasolina-2005-en-madrid-60772247-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.0i,10990.0,Gasolina,2008,220000,150,Tarragona,https://www.coches.net/bmw-z4-2.0i-2p-gasolina-2008-en-tarragona-60449083-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.0i,10999.0,Gasolina,2007,209000,150,Barcelona,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-barcelona-60695022-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4,11000.0,Gasolina,2003,206000,192,Las Palmas,https://www.coches.net/bmw-z4-gasolina-2003-en-las_palmas-60807481-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4,11000.0,Gasolina,2006,142000,,Las Palmas,https://www.coches.net/bmw-z4-gasolina-2006-en-las_palmas-60055691-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.2i,11199.0,Gasolina,2005,205000,170,Madrid,https://www.coches.net/bmw-z4-22i-2p-gasolina-2006-en-madrid-60402728-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.2i,11250.0,Gasolina,2005,199999,170,Alicante,https://www.coches.net/bmw-z4-22i-2p-gasolina-2006-en-alicante-60493033-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4,11500.0,Gasolina,2005,169000,,Granada,https://www.coches.net/bmw-z4-gasolina-2005-en-granada-60784290-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.2i,11500.0,Gasolina,2006,170000,170,Alicante,https://www.coches.net/bmw-z4-22i-2p-gasolina-2006-en-alicante-60255916-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.5i,11700.0,Gasolina,2003,161200,192,Madrid,https://www.coches.net/bmw-z4-25i-2p-gasolina-2003-en-madrid-60755162-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 3.0i,11900.0,Gasolina,2004,237000,231,Madrid,https://www.coches.net/bmw-z4-30i-2p-gasolina-2004-en-madrid-60446768-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4,11900.0,Gasolina,2004,237000,,Madrid,https://www.coches.net/bmw-z4-gasolina-2004-en-madrid-60447106-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 3.0i,11900.0,Gasolina,2004,237000,231,Toledo,https://www.coches.net/bmw-z4-30i-2p-gasolina-2004-en-toledo-60461835-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4,11900.0,Gasolina,2004,237000,,Toledo,https://www.coches.net/bmw-z4-gasolina-2004-en-toledo-60461889-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 3.0i,11900.0,Gasolina,2004,237000,231,Cuenca,https://www.coches.net/bmw-z4-30i-2p-gasolina-2004-en-cuenca-60473983-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4 3.0i,11900.0,Gasolina,2004,237000,231,Albacete,https://www.coches.net/bmw-z4-30i-2p-gasolina-2004-en-albacete-60469993-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4 3.0i,11900.0,Gasolina,2004,237000,231,Ciudad Real,https://www.coches.net/bmw-z4-30i-2p-gasolina-2004-en-ciudad_real-60446961-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4,11900.0,Gasolina,2004,237000,,Cuenca,https://www.coches.net/bmw-z4-gasolina-2004-en-cuenca-60474040-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,11900.0,Gasolina,2004,231000,,Albacete,https://www.coches.net/bmw-z4-gasolina-2004-en-albacete-60470075-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,11900.0,Gasolina,2004,237000,,Ciudad Real,https://www.coches.net/bmw-z4-gasolina-2004-en-ciudad_real-60447349-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.5i,11990.0,Gasolina,2004,220000,192,Castellón,https://www.coches.net/bmw-z4-25i-2p-gasolina-2004-en-castellon-60659686-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.5i,11999.0,Gasolina,2003,179334,192,Valencia,https://www.coches.net/bmw-z4-2.5i-2p-gasolina-2003-en-valencia-60363795-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.0i,11999.0,Gasolina,2007,125000,150,Madrid,https://www.coches.net/bmw-z4-2.0i-2p-gasolina-2007-en-madrid-58374993-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.5i,12000.0,Gasolina,2003,240000,192,Valencia,https://www.coches.net/bmw-z4-25i-2p-gasolina-2003-en-valencia-60702519-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4,12000.0,Gasolina,2009,135000,204,Barcelona,https://www.coches.net/bmw-z4-gasolina-2009-en-barcelona-59757801-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,12400.0,Gasolina,2008,91000,,Barcelona,https://www.coches.net/bmw-z4-gasolina-2008-en-barcelona-60854126-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.0i,12500.0,Gasolina,2006,128100,150,Huelva,https://www.coches.net/bmw-z4-20i-2p-gasolina-2006-en-huelva-60833100-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.2i,12500.0,Gasolina,2004,146650,170,Madrid,https://www.coches.net/bmw-z4-22i-2p-gasolina-2004-en-madrid-60791429-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.0i,12500.0,Gasolina,2007,160000,150,Madrid,https://www.coches.net/bmw-z4-20i-2p-gasolina-2007-en-madrid-60731456-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.2i,12500.0,Gasolina,2004,150000,170,Zaragoza,https://www.coches.net/bmw-z4-2.2i-2p-gasolina-2004-en-zaragoza-60478120-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 3.0i,12500.0,Gasolina,2003,204758,231,Baleares,https://www.coches.net/bmw-z4-30i-2p-gasolina-2003-en-baleares-60262621-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4 2.0i,12900.0,Gasolina,2008,128000,150,Vizcaya,https://www.coches.net/bmw-z4-2.0i-2p-gasolina-2008-en-vizcaya-59665243-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.0i,12900.0,Gasolina,2007,184000,150,A Coruña,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-a-coruna-60483530-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4,12990.0,Gasolina,2006,139000,,Barcelona,https://www.coches.net/bmw-z4-gasolina-2006-en-barcelona-60793955-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.5i,12990.0,Gasolina,2003,135008,192,Barcelona,https://www.coches.net/bmw-z4-25i-2p-gasolina-2003-en-barcelona-60421214-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.2i,13000.0,Gasolina,2005,167000,170,Baleares,https://www.coches.net/bmw-z4-22i-2p-gasolina-2005-en-baleares-60688597-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4,13000.0,Gasolina,2007,96000,,Sta. C. Tenerife,https://www.coches.net/bmw-z4-gasolina-2007-en-sta_c_tenerife-56190742-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.0i,13000.0,Gasolina,2008,107000,150,Valencia,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-valencia-60487625-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.0i,13490.0,Gasolina,2007,150000,150,Barcelona,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-barcelona-60583310-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.2i,13500.0,Gasolina,2004,75000,170,Baleares,https://www.coches.net/bmw-z4-22i-2p-gasolina-2004-en-baleares-60275641-covo.aspx,BMW,Z4,2.2,2.2
+BMW Z4 2.5i,13500.0,Gasolina,2004,139000,192,Badajoz,https://www.coches.net/bmw-z4-25i-2p-gasolina-2004-en-badajoz-59520752-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4,13800.0,Gasolina,2004,152,,Alicante,https://www.coches.net/bmw-z4-gasolina-2004-en-alicante-60589475-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 3.0i,13900.0,Gasolina,2004,233000,231,Madrid,https://www.coches.net/bmw-z4-30i-2p-gasolina-2004-en-madrid-60675183-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4 2.5i,13900.0,Gasolina,2007,144000,177,Madrid,https://www.coches.net/bmw-z4-25i-2p-gasolina-2007-en-madrid-60429164-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4,13990.0,Gasolina,2006,176000,,Jaén,https://www.coches.net/bmw-z4-gasolina-2006-en-jaen-59572791-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.5i,13999.0,Gasolina,2003,150000,192,Cantabria,https://www.coches.net/bmw-z4-2.5i-2p-gasolina-2003-en-cantabria-59438982-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.5i Auto,14000.0,Gasolina,2007,195000,,Valencia,https://www.coches.net/bmw-z4-25i-auto-2p-gasolina-2007-en-valencia-59495434-covo.aspx,BMW,Z4,2.5,2.5 AUTO
+BMW Z4 2.5i,14300.0,Gasolina,2005,175336,192,Castellón,https://www.coches.net/bmw-z4-2.5i-2p-gasolina-2005-en-castellon-58601000-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 sDrive35i,14500.0,Gasolina,2009,150500,306,Girona,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2009-en-girona-60495780-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4 3.0i,14900.0,Gasolina,2004,58000,231,Barcelona,https://www.coches.net/bmw-z4-30i-2p-gasolina-2004-en-barcelona-60499593-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4,14900.0,Gasolina,2006,175000,,Madrid,https://www.coches.net/bmw-z4-gasolina-2006-en-madrid-60329950-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,14900.0,Gasolina,2004,58000,245,Barcelona,https://www.coches.net/bmw-z4-gasolina-2004-en-barcelona-60500104-covo.aspx,BMW,Z4,3.0,3.0 ROADSTER
+BMW Z4 2.5i,14990.0,Gasolina,2006,117000,177,Alicante,https://www.coches.net/bmw-z4-2.5i-2p-gasolina-2006-en-alicante-60634736-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.0i,14995.0,Gasolina,2007,97500,150,Asturias,https://www.coches.net/bmw-z4-20i-2p-gasolina-2007-en-asturias-60370758-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.5i,14999.0,Gasolina,2007,125000,177,Barcelona,https://www.coches.net/bmw-z4-25i-2p-gasolina-2007-en-barcelona-60354024-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.0i,15000.0,Gasolina,2008,105000,150,Sevilla,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-sevilla-60752437-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4,15000.0,Gasolina,2004,200000,,Madrid,https://www.coches.net/bmw-z4-gasolina-2004-en-madrid-60391348-covo.aspx,BMW,Z4,No data,ROADSTER
+BMW Z4 2.0i,15499.0,Gasolina,2009,134000,150,Madrid,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-madrid-60450543-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.5si,15900.0,Gasolina,2006,137000,218,Málaga,https://www.coches.net/bmw-z4-25si-2p-gasolina-2006-en-malaga-60720674-covo.aspx,BMW,Z4,No data,2.5SI
+BMW Z4 sDrive23i,15990.0,Gasolina,2009,179000,204,Madrid,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2009-en-madrid-60551557-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive20i,15995.0,Gasolina,2011,90000,184,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2012-en-madrid-60791482-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,16000.0,Gasolina,2011,184000,184,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2012-en-barcelona-57414269-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 2.5i,16000.0,Gasolina,2007,72000,177,Jaén,https://www.coches.net/bmw-z4-25i-2p-gasolina-2007-en-jaen-60574200-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.5i,16000.0,Gasolina,2008,110000,177,Girona,https://www.coches.net/bmw-z4-25i-2p-gasolina-2008-en-girona-60385696-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4,16000.0,Gasolina,2006,200000,265,Málaga,https://www.coches.net/bmw-z4-gasolina-2006-en-malaga-60216571-covo.aspx,BMW,Z4,No data,COUPE
+BMW Z4,16000.0,Gasolina,2006,200000,,Málaga,https://www.coches.net/bmw-z4-gasolina-2006-en-malaga-60375409-covo.aspx,BMW,Z4,No data,COUPE
+BMW Z4,16000.0,Gasolina,2006,200000,,Málaga,https://www.coches.net/bmw-z4-gasolina-2006-en-malaga-60395439-covo.aspx,BMW,Z4,3.0,3.0 COUPE
+BMW Z4,16400.0,Gasolina,2010,340000,,Pontevedra,https://www.coches.net/bmw-z4-gasolina-2010-en-pontevedra-60414811-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.5i,16500.0,Gasolina,2003,18000,192,Alicante,https://www.coches.net/bmw-z4-25i-2p-gasolina-2003-en-alicante-60801689-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 2.0i,16500.0,Gasolina,2006,70000,150,Girona,https://www.coches.net/bmw-z4-20i-2p-gasolina-2006-en-girona-60781519-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 2.5i Auto,16500.0,Gasolina,2009,165000,,Alicante,https://www.coches.net/bmw-z4-25i-auto-2p-gasolina-2009-en-alicante-59792204-covo.aspx,BMW,Z4,2.5,2.5 AUTO
+BMW Z4 sDrive23i,16990.0,Gasolina,2009,237000,204,Asturias,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-asturias-58102106-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 2.5i,17000.0,Gasolina,2008,116000,177,Girona,https://www.coches.net/bmw-z4-25i-2p-gasolina-2008-en-girona-60848062-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 3.0i,17000.0,Gasolina,2004,108825,231,A Coruña,https://www.coches.net/bmw-z4-30i-2p-gasolina-2004-en-a_coruna-60813048-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4 3.0i,17000.0,Gasolina,2003,156000,231,Madrid,https://www.coches.net/bmw-z4-30i-2p-gasolina-2003-en-madrid-60716285-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4 sDrive23i,17500.0,Gasolina,2010,191000,204,Asturias,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-asturias-59150671-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive20i,17500.0,Gasolina,2012,213000,184,Albacete,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2012-en-albacete-60538519-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive23i,17900.0,Gasolina,2010,162000,204,Málaga,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-malaga-60313365-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 2.0i,17999.0,Gasolina,2008,80200,150,Baleares,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-baleares-60457326-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 sDrive23i,18000.0,Gasolina,2010,170000,204,Baleares,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-baleares-60180824-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive20i,18499.0,Gasolina,2014,140000,184,Granada,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2015-en-granada-56995180-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4,18500.0,Gasolina,2003,157500,231,Cádiz,https://www.coches.net/bmw-z4-gasolina-2003-en-cadiz-59502004-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4 sDrive23i,18800.0,Gasolina,2010,169000,204,Almería,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-almeria-60791994-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive23i,18881.0,Gasolina,2010,109000,204,Madrid,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-madrid-60435243-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive20i,18900.0,Gasolina,2012,180000,184,Lugo,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2012-en-lugo-60723026-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive23i,18999.0,Gasolina,2010,130000,204,Madrid,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-madrid-59794141-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 3.0i,19000.0,Gasolina,2003,85000,231,Valencia,https://www.coches.net/bmw-z4-30i-2p-gasolina-2003-en-valencia-58154343-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4,19500.0,Gasolina,2010,154000,,Sta. C. Tenerife,https://www.coches.net/bmw-z4-gasolina-2010-en-sta_c_tenerife-60854068-covo.aspx,BMW,Z4,2.3,2.3 ROADSTER
+BMW Z4 sDrive18i,19500.0,Gasolina,2014,148000,156,Alicante,https://www.coches.net/bmw-z4-sdrive18i-2p-gasolina-2014-en-alicante-60228635-covo.aspx,BMW,Z4,No data,SDRIVE18I
+BMW Z4 3.0si,19500.0,Gasolina,2007,200000,265,Valencia,https://www.coches.net/bmw-z4-30si-3p-gasolina-2007-en-valencia-59360924-covo.aspx,BMW,Z4,No data,3.0SI
+BMW Z4 sDrive20i,19500.0,Gasolina,2012,132500,184,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2012-en-barcelona-60419118-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive23i,19800.0,Gasolina,2010,89000,204,Madrid,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-madrid-60314683-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive23i,19990.0,Gasolina,2011,175000,204,Salamanca,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2011-en-salamanca-60362708-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive23i,19999.0,Gasolina,2010,169245,204,Granada,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2011-en-granada-60707933-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 3.0si,19999.0,Gasolina,2006,194449,265,Granada,https://www.coches.net/bmw-z4-30si-3p-gasolina-2007-en-granada-60437038-covo.aspx,BMW,Z4,No data,3.0SI
+BMW Z4 2.0i,20000.0,Gasolina,2008,57000,150,Madrid,https://www.coches.net/bmw-z4-20i-2p-gasolina-2008-en-madrid-60426030-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4,20400.0,Gasolina,2013,159000,,Granada,https://www.coches.net/bmw-z4-gasolina-2013-en-granada-60223007-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 2.5i,20400.0,Gasolina,2003,37000,192,León,https://www.coches.net/bmw-z4-25i-2p-gasolina-2003-en-leon-58168488-covo.aspx,BMW,Z4,2.5,2.5
+BMW Z4 3.0si,20500.0,Gasolina,2007,193000,265,Madrid,https://www.coches.net/bmw-z4-30si-3p-gasolina-2007-en-madrid-57967896-covo.aspx,BMW,Z4,No data,3.0SI
+BMW Z4,20500.0,Gasolina,2012,51800,245,Sevilla,https://www.coches.net/bmw-z4-gasolina-2012-en-sevilla-60534458-covo.aspx,BMW,Z4,2.0,2.0
+BMW Z4 sDrive20i,20500.0,Gasolina,2014,113000,184,Álava,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2014-en-alava-60283238-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 3.0i,20500.0,Gasolina,2005,52000,231,Málaga,https://www.coches.net/bmw-z4-30i-2p-gasolina-2005-en-malaga-60621786-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4,21000.0,Gasolina,2006,130000,,Baleares,https://www.coches.net/bmw-z4-gasolina-2006-en-baleares-60462943-covo.aspx,BMW,Z4,3.9,3.9
+BMW Z4,21500.0,Gasolina,2008,27200,150,Jaén,https://www.coches.net/bmw-z4-gasolina-2008-en-jaen-59507950-covo.aspx,BMW,Z4,2.0,2.0 ROADSTER
+BMW Z4 sDrive18i,21900.0,Gasolina,2015,140000,156,Valencia,https://www.coches.net/bmw-z4-sdrive18i-2p-gasolina-2015-en-valencia-60163438-covo.aspx,BMW,Z4,No data,SDRIVE18I
+BMW Z4 sDrive20i,21990.0,Gasolina,2012,84000,184,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2012-en-barcelona-60596769-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 3.0si,21999.0,Gasolina,2008,198563,265,Alicante,https://www.coches.net/bmw-z4-30si-3p-gasolina-2008-en-alicante-59988452-covo.aspx,BMW,Z4,No data,3.0SI
+BMW Z4 3.0si,22000.0,Gasolina,2006,165000,265,Ciudad Real,https://www.coches.net/bmw-z4-30si-3p-gasolina-2006-en-ciudad_real-60753967-covo.aspx,BMW,Z4,No data,3.0SI
+BMW Z4 3.0si,22000.0,Gasolina,2007,150000,265,Pontevedra,https://www.coches.net/bmw-z4-30si-3p-gasolina-2007-en-pontevedra-60622715-covo.aspx,BMW,Z4,No data,3.0SI
+BMW Z4 sDrive20i,22200.0,Gasolina,2012,59000,184,Cádiz,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2012-en-cadiz-60645232-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4,22900.0,Gasolina,2012,59000,,Cádiz,https://www.coches.net/bmw-z4-gasolina-2012-en-cadiz-60683720-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 sDrive20i,22900.0,Gasolina,2013,65000,184,Asturias,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2013-en-asturias-60315574-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive35i,22999.0,Gasolina,2011,156000,306,Alicante,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2011-en-alicante-60301656-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4 sDrive20i,23000.0,Gasolina,2014,95000,184,Jaén,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2014-en-jaen-59457356-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,23000.0,Gasolina,2015,120000,184,Zaragoza,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2015-en-zaragoza-59632002-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4,23000.0,Gasolina,2014,119000,184,Sta. C. Tenerife,https://www.coches.net/bmw-z4-gasolina-2014-en-sta_c_tenerife-60272919-covo.aspx,BMW,Z4,1.8,1.8 ROADSTER
+BMW Z4 sDrive23i,23800.0,Gasolina,2009,95302,204,Madrid,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2009-en-madrid-60637750-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive35i,23990.0,Gasolina,2010,111000,306,Barcelona,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2010-en-barcelona-60692514-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4 sDrive20i,23999.0,Gasolina,2014,106000,184,Alicante,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2014-en-alicante-60766531-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,24000.0,Gasolina,2015,118000,184,Lugo,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2015-en-lugo-60801068-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 3.0si,24000.0,Gasolina,2008,65500,265,Albacete,https://www.coches.net/bmw-z4-30si-3p-gasolina-2008-en-albacete-60737784-covo.aspx,BMW,Z4,No data,3.0SI
+BMW Z4 sDrive18i,24000.0,Gasolina,2015,130000,156,Málaga,https://www.coches.net/bmw-z4-sdrive18i-2p-gasolina-2015-en-malaga-59746581-covo.aspx,BMW,Z4,No data,SDRIVE18I
+BMW Z4,24000.0,Gasolina,2009,150000,307,Las Palmas,https://www.coches.net/bmw-z4-gasolina-2009-en-las_palmas-60365017-covo.aspx,BMW,Z4,No data,ROADSTER
+BMW Z4,24000.0,Gasolina,2009,84826,,Murcia,https://www.coches.net/bmw-z4-gasolina-2009-en-murcia-60474620-covo.aspx,BMW,Z4,No data,No data
+BMW Z4,24900.0,Gasolina,2008,92000,,Sta. C. Tenerife,https://www.coches.net/bmw-z4-gasolina-2008-en-sta_c_tenerife-60727265-covo.aspx,BMW,Z4,No data,COUPE
+BMW Z4 3.0si,24900.0,Gasolina,2008,85000,265,Valencia,https://www.coches.net/bmw-z4-30si-3p-gasolina-2008-en-valencia-60535573-covo.aspx,BMW,Z4,No data,3.0SI
+BMW Z4 sDrive23i,24990.0,Gasolina,2010,43000,204,Sta. C. Tenerife,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-sta.-c.-tenerife-60145183-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive28i,25000.0,Gasolina,2017,118000,245,Madrid,https://www.coches.net/bmw-z4-sdrive28i-2p-gasolina-2017-en-madrid-60804926-covo.aspx,BMW,Z4,No data,SDRIVE28I
+BMW Z4 sDrive23i,25000.0,Gasolina,2009,50500,204,Vizcaya,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2009-en-vizcaya-60710896-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive20i,25300.0,Gasolina,2016,64000,184,Alicante,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2016-en-alicante-60392186-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,25500.0,Gasolina,2015,88000,184,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2015-en-madrid-60464402-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive35i,25900.0,Gasolina,2009,149000,306,Barcelona,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2010-en-barcelona-59496120-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4 sDrive35i,26500.0,Gasolina,2009,180000,306,Murcia,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2010-en-murcia-59923266-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4 sDrive35i,26900.0,Gasolina,2012,163000,306,Alicante,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2012-en-alicante-60089315-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4 sDrive23i,27880.0,Gasolina,2010,75740,204,Alicante,https://www.coches.net/bmw-z4-sdrive23i-2p-gasolina-2010-en-alicante-60573811-covo.aspx,BMW,Z4,No data,SDRIVE23I
+BMW Z4 sDrive35i,27900.0,Gasolina,2014,115000,306,Barcelona,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2014-en-barcelona-59998331-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4 sDrive35i,28900.0,Gasolina,2010,64000,306,Pontevedra,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2010-en-pontevedra-60562453-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4,29000.0,Gasolina,2011,134000,258,Las Palmas,https://www.coches.net/bmw-z4-gasolina-2011-en-las_palmas-60402800-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4 sDrive35i,29900.0,Gasolina,2011,90500,306,Valencia,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2011-en-valencia-60525196-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4 sDrive30i Auto,29900.0,Gasolina,2020,33000,258,Barcelona,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2021-en-barcelona-60719470-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 sDrive28i,29980.0,Gasolina,2014,100000,245,Madrid,https://www.coches.net/bmw-z4-sdrive28i-2p-gasolina-2014-en-madrid-60370700-covo.aspx,BMW,Z4,No data,SDRIVE28I
+BMW Z4 sDrive20i,30000.0,Gasolina,2013,175000,184,Baleares,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2013-en-baleares-60774733-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4,30900.0,Gasolina,2016,32000,,Alicante,https://www.coches.net/bmw-z4-gasolina-2016-en-alicante-60403455-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 sDrive35i,31900.0,Gasolina,2013,69600,306,Barcelona,https://www.coches.net/bmw-z4-sdrive35i-2p-gasolina-2013-en-barcelona-59932853-covo.aspx,BMW,Z4,No data,SDRIVE35I
+BMW Z4,32999.0,Gasolina,2014,169,,Vizcaya,https://www.coches.net/bmw-z4-gasolina-2014-en-vizcaya-60805406-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 sDrive20i Auto,34900.0,Gasolina,2019,63800,197,Alicante,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2019-en-alicante-60822459-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,34990.0,Gasolina,2021,41000,197,Las Palmas,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2020-en-las-palmas-60511310-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,34990.0,Gasolina,2021,41000,197,Sta. C. Tenerife,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2020-en-sta.-c.-tenerife-60511385-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i,35990.0,Gasolina,2021,119000,197,Granada,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2022-en-granada-60785366-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive35is,35990.0,Gasolina,2013,65000,340,Madrid,https://www.coches.net/bmw-z4-sdrive35is-2p-gasolina-2013-en-madrid-60673036-covo.aspx,BMW,Z4,No data,SDRIVE35IS
+BMW Z4 sDrive20i Auto,35990.0,Gasolina,2021,51000,197,Córdoba,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2021-en-cordoba-60365166-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i,36900.0,Gasolina,2022,58650,197,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2022-en-barcelona-60799244-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,36990.0,Gasolina,2019,60300,197,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2019-en-barcelona-59751549-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i Auto,37300.0,Gasolina,2019,72000,197,Alicante,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2020-en-alicante-57422257-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,37500.0,Gasolina,2019,39000,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2020-en-madrid-60224794-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,37890.0,Gasolina,2021,53124,197,Sevilla,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2021-en-sevilla-60017581-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,37890.0,Gasolina,2021,53124,197,Málaga,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2021-en-malaga-60017586-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i,37990.0,Gasolina,2021,56092,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2020-en-madrid-60794409-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,37990.0,Gasolina,2021,10667,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2021-en-madrid-60780862-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,37990.0,Gasolina,2022,59999,197,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2023-en-barcelona-60500345-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i Auto,37999.0,Gasolina,2019,58000,197,Alicante,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2019-en-alicante-59801942-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,38000.0,Gasolina,2020,27000,197,Córdoba,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2020-en-cordoba-60752813-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 M Roadster,38000.0,Gasolina,2006,108400,343,Alicante,https://www.coches.net/bmw-z4-m-roadster-2p-gasolina-2006-en-alicante-60474594-covo.aspx,BMW,Z4,No data,ROADSTER M
+BMW Z4 sDrive20i Auto,38500.0,Gasolina,2021,67000,197,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2021-en-barcelona-60617702-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i,38500.0,Gasolina,2021,8750,197,A Coruña,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2021-en-a_coruna-60530775-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,38690.0,Gasolina,2022,53000,197,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2023-en-barcelona-60842173-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,38700.0,Gasolina,2019,69864,197,Valencia,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2019-en-valencia-60809388-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,38750.0,Gasolina,2022,57451,197,Alicante,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2022-en-alicante-60634047-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,38750.0,Gasolina,2022,57451,197,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2022-en-barcelona-60633890-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i Auto,38900.0,Gasolina,2019,68444,197,Málaga,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2019-en-malaga-60801180-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,38950.0,Gasolina,2022,15000,,Madrid,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2022-en-madrid-60470786-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i,38990.0,Gasolina,2022,58620,197,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2022-en-barcelona-60614984-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i Auto,38990.0,Gasolina,2020,76150,197,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2020-en-barcelona-60690746-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i,39800.0,Gasolina,2022,35850,197,Murcia,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2022-en-murcia-60568434-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i Auto,39890.0,Gasolina,2021,53747,197,Málaga,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2021-en-malaga-59971515-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,39900.0,Gasolina,2020,38400,197,Córdoba,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2020-en-cordoba-59234868-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i,39990.0,Gasolina,2022,55000,197,Málaga,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2022-en-malaga-60841825-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,40490.0,Gasolina,2022,49000,197,Málaga,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2022-en-malaga-60822754-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,40790.0,Gasolina,2022,54486,197,Barcelona,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2023-en-barcelona-60691512-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive30i Auto,41000.0,Gasolina,2019,39000,258,Vizcaya,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2019-en-vizcaya-60804936-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 sDrive30i Auto,41481.0,Gasolina,2019,64400,258,Barcelona,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2020-en-barcelona-55899276-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 sDrive20i Auto,41500.0,Gasolina,2021,43446,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2021-en-madrid-59120985-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,41900.0,Gasolina,2022,35000,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2021-en-madrid-60834549-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i Auto,41900.0,Gasolina,2020,69000,197,Pontevedra,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2020-en-pontevedra-60800351-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive30i Auto,41990.0,Gasolina,2022,62418,258,Madrid,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2022-en-madrid-60693925-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 M Coupe,42000.0,Gasolina,2008,168252,343,Barcelona,https://www.coches.net/bmw-z4-m-coupe-3p-gasolina-2008-en-barcelona-60128578-covo.aspx,BMW,Z4,No data,COUPE M
+BMW Z4,42000.0,Gasolina,2021,45000,,Málaga,https://www.coches.net/bmw-z4-gasolina-2021-en-malaga-60276996-covo.aspx,BMW,Z4,3.0,3.0
+BMW Z4 sDrive30i Auto,42790.0,Gasolina,2020,57316,258,Madrid,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2021-en-madrid-60568903-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 M Coupe,43000.0,Gasolina,2007,149000,343,Barcelona,https://www.coches.net/bmw-z4-m-coupe-3p-gasolina-2007-en-barcelona-60211306-covo.aspx,BMW,Z4,No data,COUPE M
+BMW Z4 sDrive30i Auto,43500.0,Gasolina,2019,56000,258,Madrid,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2019-en-madrid-60738663-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 sDrive20i Auto,44000.0,Gasolina,2020,104000,197,Cáceres,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2020-en-caceres-60453578-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 M Coupe,44900.0,Gasolina,2006,106000,343,Valencia,https://www.coches.net/bmw-z4-m-coupe-3p-gasolina-2006-en-valencia-59975592-covo.aspx,BMW,Z4,No data,COUPE M
+BMW Z4 sDrive30i Auto,44900.0,Gasolina,2020,31400,258,A Coruña,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2021-en-a-coruna-60528532-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 sDrive20i Auto,44900.0,Gasolina,2022,17600,197,Castellón,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2022-en-castellon-60470779-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 sDrive20i,44900.0,Gasolina,2021,21700,197,Murcia,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2021-en-murcia-60367214-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,44990.0,Gasolina,2024,23000,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-madrid-60599803-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,45000.0,Gasolina,2024,23000,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-madrid-60564584-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,45900.0,Gasolina,2024,20000,197,Granada,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-granada-60652142-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 M Coupe,46000.0,Gasolina,2007,140000,343,Barcelona,https://www.coches.net/bmw-z4-m-coupe-3p-gasolina-2007-en-barcelona-59557274-covo.aspx,BMW,Z4,No data,COUPE M
+BMW Z4 sDrive20i,46590.0,Gasolina,2024,10000,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-madrid-60705783-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,46990.0,Gasolina,2024,18000,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-madrid-60675620-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive20i,46990.0,Gasolina,2024,13000,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-madrid-60675621-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 M40i,47000.0,Gasolina,2019,96291,340,Madrid,https://www.coches.net/bmw-z4-m40i-2p-gasolina-2019-en-madrid-60396176-covo.aspx,BMW,Z4,No data,M40I
+BMW Z4 sDrive20i,47900.0,Gasolina,2024,15839,197,Cantabria,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-cantabria-60647828-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4,48000.0,Gasolina,2023,8200,,Sta. C. Tenerife,https://www.coches.net/bmw-z4-gasolina-2023-en-sta_c_tenerife-59934352-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 M40i Auto,48300.0,Gasolina,2021,53500,340,Asturias,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2021-en-asturias-60797961-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 sDrive20i,48500.0,Gasolina,2024,21130,197,Málaga,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-malaga-60223025-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive30i Auto,48500.0,Gasolina,2022,53000,258,Madrid,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2022-en-madrid-60639290-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 M40i Auto,48900.0,Gasolina,2020,35000,340,Las Palmas,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2020-en-las-palmas-60533849-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 M40i Auto,48900.0,Gasolina,2020,35000,340,Sta. C. Tenerife,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2020-en-sta.-c.-tenerife-60534138-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 sDrive20i,48900.0,Gasolina,2024,8990,197,Madrid,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-madrid-60759135-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive30i Auto,48990.0,Gasolina,2021,22800,258,Málaga,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2021-en-malaga-60304346-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4,49000.0,Gasolina,2020,107000,340,Sta. C. Tenerife,https://www.coches.net/bmw-z4-gasolina-2020-en-sta_c_tenerife-60676146-covo.aspx,BMW,Z4,No data,No data
+BMW Z4 M40i Auto,49800.0,Gasolina,2019,20900,340,Madrid,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2019-en-madrid-59839652-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 M40i Auto,49900.0,Gasolina,2021,52000,340,Las Palmas,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2021-en-las-palmas-60599128-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 M40i Auto,49900.0,Gasolina,2021,52000,340,Sta. C. Tenerife,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2021-en-sta.-c.-tenerife-60605023-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 M40i Auto,49900.0,Gasolina,2021,52000,340,Las Palmas,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2021-en-las-palmas-60604288-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 sDrive20i,50790.0,Gasolina,2024,6276,197,Valencia,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-valencia-59141896-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 sDrive30i,50990.0,Gasolina,2024,17000,258,Madrid,https://www.coches.net/bmw-z4-sdrive30i-2p-gasolina-2024-en-madrid-60697047-covo.aspx,BMW,Z4,No data,SDRIVE30I
+BMW Z4 sDrive30i Auto,52500.0,Gasolina,2023,34800,258,Valencia,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2023-en-valencia-58011379-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 sDrive30i Auto,52900.0,Gasolina,2021,18300,258,Málaga,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2021-en-malaga-57020825-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 M40i Auto,52990.0,Gasolina,2020,28000,340,Madrid,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2020-en-madrid-60706330-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 M40i Auto,53800.0,Gasolina,2021,22782,340,Albacete,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2021-en-albacete-60733293-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 M40i Auto,53800.0,Gasolina,2021,22782,340,Alicante,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2021-en-alicante-60738981-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 M40i Auto,53800.0,Gasolina,2021,22782,340,Murcia,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2021-en-murcia-60733271-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 sDrive20i,53800.0,Gasolina,2024,10400,197,Almería,https://www.coches.net/bmw-z4-sdrive20i-2p-gasolina-2024-en-almeria-60716467-covo.aspx,BMW,Z4,No data,SDRIVE20I
+BMW Z4 M40i Auto,54500.0,Gasolina,2019,127000,340,Madrid,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2020-en-madrid-60830543-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 sDrive30i,54700.0,Gasolina,2024,18753,258,Murcia,https://www.coches.net/bmw-z4-sdrive30i-2p-gasolina-2024-en-murcia-59918062-covo.aspx,BMW,Z4,No data,SDRIVE30I
+BMW Z4 sDrive30i,54700.0,Gasolina,2024,18753,258,Valencia,https://www.coches.net/bmw-z4-sdrive30i-2p-gasolina-2024-en-valencia-59918057-covo.aspx,BMW,Z4,No data,SDRIVE30I
+BMW Z4 M40i Auto,54900.0,Gasolina,2021,34000,340,Alicante,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2021-en-alicante-59940145-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 sDrive20i Auto,55500.0,Gasolina,2023,27254,197,Baleares,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2023-en-baleares-59898014-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 M Coupe,57000.0,Gasolina,2007,48000,343,Jaén,https://www.coches.net/bmw-z4-m-coupe-3p-gasolina-2007-en-jaen-60303826-covo.aspx,BMW,Z4,No data,COUPE M
+BMW Z4 M40i Auto 2p.,59800.0,Gasolina,2019,38900,340,Madrid,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2019-en-madrid-55682163-covo.aspx,BMW,Z4,No data,M40I AUTO 2P.
+BMW Z4 sDrive30i Auto,59990.0,Gasolina,2023,16215,258,Barcelona,https://www.coches.net/bmw-z4-sdrive30i-auto-2p-gasolina-2023-en-barcelona-60683149-covo.aspx,BMW,Z4,No data,SDRIVE30I AUTO
+BMW Z4 M40i Auto,59990.0,Gasolina,2020,19200,340,Albacete,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2020-en-albacete-59120372-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 sDrive20i Auto,60900.0,Gasolina,2023,16000,197,Málaga,https://www.coches.net/bmw-z4-sdrive20i-auto-2p-gasolina-2023-en-malaga-58526795-covo.aspx,BMW,Z4,No data,SDRIVE20I AUTO
+BMW Z4 M40i,61290.0,Gasolina,2024,10260,340,Madrid,https://www.coches.net/bmw-z4-m40i-2p-gasolina-2024-en-madrid-60657265-covo.aspx,BMW,Z4,No data,M40I
+BMW Z4 M40i Auto,61490.0,Gasolina,2023,3587,340,Barcelona,https://www.coches.net/bmw-z4-m40i-auto-2p-gasolina-2023-en-barcelona-60797386-covo.aspx,BMW,Z4,No data,M40I AUTO
+BMW Z4 M40i,61900.0,Gasolina,2024,7000,340,Madrid,https://www.coches.net/bmw-z4-m40i-2p-gasolina-2024-en-madrid-60796954-covo.aspx,BMW,Z4,No data,M40I
+BMW Z4 M40i,61900.0,Gasolina,2024,6000,340,Córdoba,https://www.coches.net/bmw-z4-m40i-2p-gasolina-2024-en-cordoba-60328042-covo.aspx,BMW,Z4,No data,M40I
+BMW Z4 M40i,68500.0,Gasolina,2024,32100,340,Navarra,https://www.coches.net/bmw-z4-m40i-2p-gasolina-2024-en-navarra-60519357-covo.aspx,BMW,Z4,No data,M40I
