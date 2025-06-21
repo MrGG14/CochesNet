@@ -101,7 +101,6 @@ def plot_strategy_plotly(df, model, var='kms', discount_factor=0.25, strategy_ma
 st.title("Análisis de precios de coches")
 
 # Carga de datos
-
 df = pd.read_csv('./cochesnet_full.csv', 
                  dtype={'year': 'Int64', 'kms': 'Int64', 'cv': 'Int64', 'engine': 'str'})
 
