@@ -112,21 +112,6 @@ selected_brands = st.session_state['brand_filter_multi'] if 'brand_filter_multi'
 if selected_brands:
     df = df[df['brand'].isin(selected_brands)]
 
-
-# def model_sort_key(model):
-#     # 'No data' always last
-#     if model == 'No data':
-#         return (2, float('inf'), model)
-#     # Try to extract leading number (e.g. '1.8', '2.0', etc.)
-#     match = re.match(r'^(\d+(\.\d+)?)(?:\s+)?(.*)', str(model), re.IGNORECASE)
-#     if match:
-#         num = float(match.group(1))
-#         rest = match.group(3) or ''
-#         return (0, num, model)
-#     # If no leading number, but not 'No data'
-#     return (1, float('inf'), model)
-
-# models = sorted(df['model'].unique(), key=model_sort_key)
 models = df['model'].unique()
 st.multiselect("Selecciona uno o varios modelos", options=models, key='model_filter_multi')
 selected_models = st.session_state['model_filter_multi'] if 'model_filter_multi' in st.session_state else []
@@ -146,6 +131,34 @@ if engine_filter and engine_filter != '':
     df = df[df['engine'] == str(engine_filter)]
 
 var = st.selectbox("Variable para regresión", options=['kms', 'cv', 'year'])
+
+remove_outliers = st.checkbox("Eliminar outliers (precio fuera de 1.5*IQR)", value=False)
+if remove_outliers:
+    Q1 = df['price'].quantile(0.25)
+    Q3 = df['price'].quantile(0.75)
+    IQR = Q3 - Q1
+    lower = Q1 - 1.5 * IQR
+    upper = Q3 + 1.5 * IQR
+    df = df[(df['price'] >= lower) & (df['price'] <= upper)]
+
+years = df['year'].dropna().unique()
+years = np.sort(years)
+min_year = int(years.min()) if len(years) > 0 else 2000
+max_year = int(years.max()) if len(years) > 0 else 2025
+
+if min_year < max_year:
+    year_range = st.slider(
+        "Selecciona rango de años",
+        min_value=min_year,
+        max_value=max_year,
+        value=(min_year, max_year),
+        step=1
+    )
+    df = df[(df['year'] >= year_range[0]) & (df['year'] <= year_range[1])]
+else:
+    st.info(f"Solo hay datos para el año {min_year}.")
+    df = df[df['year'] == min_year]
+
 df, model = regression_data_processing(df, var=var)
 
 # Filtrar por marca, modelo, versión y cilindrada (engine)
