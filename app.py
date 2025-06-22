@@ -96,7 +96,6 @@ def plot_strategy_plotly(df, model, var='kms', discount_factor=0.25, strategy_ma
 
     return fig
 
-
 # --- Streamlit App ---
 st.title("Análisis de precios de coches")
 
