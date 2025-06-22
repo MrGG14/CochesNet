@@ -138,6 +138,7 @@ if selected_versions:
 
 var = st.selectbox("Variable para regresión", options=['kms', 'cv', 'year'])
 
+# Filtros adicionales
 remove_outliers = st.checkbox("Eliminar outliers (precio fuera de 1.5*IQR)", value=False)
 if remove_outliers:
     Q1 = df['price'].quantile(0.25)
