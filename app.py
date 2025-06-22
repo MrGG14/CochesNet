@@ -118,17 +118,23 @@ selected_models = st.session_state['model_filter_multi'] if 'model_filter_multi'
 if selected_models:
     df = df[df['model'].isin(selected_models)]
  
+# Filtro de engine primero
+engine_options = np.append(np.sort(np.array([float(x) for x in df['engine'].unique() if x != 'No data'])), 'No data')
+engine_filter = st.selectbox(
+    "Filtrar por cilindrada (engine)",
+    options=np.insert(engine_options, 0, ''),
+    format_func=lambda x: "Selecciona..." if x == '' else str(x)
+)
+if engine_filter and engine_filter != '':
+    df = df[df['engine'] == str(engine_filter)]
+
+# Ahora las versiones solo muestran las disponibles tras filtrar por engine
 versions = df['version'].unique()
 st.multiselect("Selecciona una o varias versiones", options=versions, key='version_filter_multi')
 selected_versions = st.session_state['version_filter_multi'] if 'version_filter_multi' in st.session_state else []
 if selected_versions:
     df = df[df['version'].isin(selected_versions)]
 
-# st.subheader("Parámetros del modelo")
-engine_options = np.append(np.sort(np.array([float(x) for x in df['engine'].unique() if x != 'No data'])), 'No data')
-engine_filter = st.selectbox("Filtrar por cilindrada (engine)", options=np.insert(engine_options, 0, ''), format_func=lambda x: "Selecciona..." if x == '' else str(x))
-if engine_filter and engine_filter != '':
-    df = df[df['engine'] == str(engine_filter)]
 
 var = st.selectbox("Variable para regresión", options=['kms', 'cv', 'year'])
 
